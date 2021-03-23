@@ -2,4 +2,4 @@
 
 ### Projects
 
-[Letters Recognition Website](https://www.xinxuanlu.com:8000).
+[Letters Recognition Website](http://www.xinxuanlu.com:8000).
