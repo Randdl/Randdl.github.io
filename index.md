@@ -5,8 +5,9 @@ layout: default
 
 ## Xinxuan Lu
 
+![Image](/assets/self_portrait.png){: width="320"}
+
 ## About
-![Image](/assets/self_portrait.png){: width="250" style="float: right"}
 
 I'm a senior student at Vanderbilt University. I major in Computer Science and Mathematics, minoring in Physics.
 I'm also a prospective Ph.D. student in Computer Science.
