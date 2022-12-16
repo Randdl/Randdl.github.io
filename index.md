@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-## Xinxuan Lu
+## Xinxuan Lu {style=text-align:center}
 
 ![Image](/assets/self_portrait.png){: width="320"}
 
