@@ -3,14 +3,15 @@ layout: default
 ---
 
 
-Xinxuan Lu
+## Xinxuan Lu
+![Image](/assets/self_portrait.png)
 
 ## About
 
 I'm a senior student at Vanderbilt University. I major in Computer Science and Mathematics, minoring in Physics.
 I'm also a prospective Ph.D. student in Computer Science.
 
-[Email](xinxuan.lu@vanderbilt.edu) | [LinkedIn]() | [GitHub]() | [CV](https://drive.google.com/file/d/11q_KLMrMD1aZDQYaPfDZPxVkKA_cemnI/view?usp=share_link)
+[Email](mailto:xinxuan.lu@vanderbilt.edu) | [LinkedIn](https://www.linkedin.com/in/xinxuanlu/) | [GitHub](https://github.com/Randdl) | [CV](https://drive.google.com/file/d/11q_KLMrMD1aZDQYaPfDZPxVkKA_cemnI/view?usp=share_link)
 
 ## Research Interest
 
